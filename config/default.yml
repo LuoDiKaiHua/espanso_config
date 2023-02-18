@@ -41,3 +41,4 @@
 
 show_notifications: false
 preserve_clipboard: true
+search_shortcut: off
